@@ -1,0 +1,16 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "./singkey.jks",
+            "storePassword": "Flc3gvp1.",
+            "alias": "singkeyalias",
+            "password" : "Flc3gvp1."
+        },
+        "release": {
+            "keystore": "./singkey.jks",
+            "storePassword": "Flc3gvp1.",
+            "alias": "singkeyalias",
+            "password" : "Flc3gvp1."
+        }
+    }
+}

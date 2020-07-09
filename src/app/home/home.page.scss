@@ -25,3 +25,11 @@
 #container a {
   text-decoration: none;
 }
+
+/* Set some attributes for the div that contains the MapView */
+#my-map-view {
+  width: 80%;
+  height: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
